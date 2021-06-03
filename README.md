@@ -26,3 +26,6 @@ contenedor([
 crearArchivoHtml('../../../../var/www/html/index.html',$pagina);
 header('Location: http://localhost');
 </pre>
+<h1>Curso PHP - Construyendo mi primer caja de herramientas</h1>
+
+<a href="https://www.udemy.com/course/curso-de-php-construyendo-mi-primer-caja-de-herramientas">Entrar ya!!</a>
