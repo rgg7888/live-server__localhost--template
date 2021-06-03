@@ -1,6 +1,6 @@
 # live-server__localhost--template
 <pre>
-<?php require_once './Herramientas.php';
+require_once './Herramientas.php';
 copy('./main.css', '/var/www/html/main.css');
 copy('./ajax.txt', '/var/www/html/ajax.txt');
 #############################Live Server + Localhost##################
