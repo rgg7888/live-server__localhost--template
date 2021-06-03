@@ -1,6 +1,7 @@
 <?php require_once './Herramientas.php';
 copy('./main.css', '/var/www/html/main.css');
 copy('./ajax.txt', '/var/www/html/ajax.txt');
+copy ("./logo/php-logo.svg","/var/www/html/php-logo.svg");
 #############################Live Server + Localhost##################
 $pagina = documento().
 contenedor([
